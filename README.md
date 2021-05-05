@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ljia-ch
 - 👀 I’m interested in data projects
 - 🌱 I’m currently learning Udacity Data Engineer nanodegree
-- 💞️ I’m looking to collaborate on data Engineering and Data Science projects
+- 💞️ I’m looking to collaborate on data Engineer and Data Science projects
 - 📫 How to reach me ljia24338@gmail.com
 
 <!---
